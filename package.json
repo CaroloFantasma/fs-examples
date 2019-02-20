@@ -1,0 +1,22 @@
+{
+  "name": "clase-fs",
+  "version": "1.0.0",
+  "description": "clase fs",
+  "main": "index.js",
+  "bin": {
+    "file": "./index.js"
+  },
+  "keywords": [
+    "fs",
+    "node",
+    "npm"
+  ],
+  "author": "Carolo",
+  "license": "ISC",
+  "devDependencies": {
+    "fetch": "^1.1.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
